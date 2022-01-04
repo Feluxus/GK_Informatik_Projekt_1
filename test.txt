@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dies ist ein test. Felix geht jetzt 
 Und ich bin klug und Mika nicht.
+=======
+SCRUM ist heilig!
+>>>>>>> 1170b89f2d6362d55baac0958cad70b839e80561
